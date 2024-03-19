@@ -6,3 +6,7 @@ with col1:
     st.image('unnamed.jpg')
 with col2:
     st.write("sjfngebhgrhebgbekjrngiehg ejrngiehdrigherig kejrhgkejbdgi9uvh8w9huhybhi ohbih")
+
+
+st.header("CampusX online Course")
+st.subheader('DSMP')
